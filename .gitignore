@@ -11,3 +11,6 @@
  
 
 *.csv
+
+//Ignore .venv
+.venv/
